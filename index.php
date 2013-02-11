@@ -8,5 +8,9 @@ function add(){
     return 0;
 }
 
+function substraction(){
+    return -1;
+}
+
 
 ?>

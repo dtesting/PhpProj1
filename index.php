@@ -5,7 +5,9 @@
  * and open the template in the editor.
  */
 function add(){
-    return 0;
+    $a=$b = 2;
+    
+    return $a+$b;
 }
 
 function substraction(){
